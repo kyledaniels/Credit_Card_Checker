@@ -40,6 +40,7 @@ const validateCred = (numArr)=>{
      return total %10 ===0;
 }
 
+console.log(validateCred(invalid1));
 
 
 
